@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7981b3A16D76551717b15aC04BC308DAC70486fc",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x7981b3A16D76551717b15aC04BC308DAC70486fc",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Hippy Eggy NFT",
+  "SYMBOL": "HENFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.002,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/hippyeggytest",
+  "SHOW_BACKGROUND": true
+}
